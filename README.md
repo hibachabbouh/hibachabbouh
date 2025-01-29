@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiba Chabbouh</h1>
-<h3 align="center">I am a driven student based in Tunisia, currently pursuing a degree in Business Information Systems and passionate about leveraging technology to drive business success</h3>
+<h3 align="center">I am a driven student based in Tunisia, currently pursuing a degree in Software Engineering and passionate about leveraging technology to drive business success</h3>
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibachabbouh&label=Profile%20views&color=0e75b6&style=flat" alt="hibachabbouh" /> </p>
