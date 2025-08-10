@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibachabbouh&label=Profile%20views&color=0e75b6&style=flat" alt="hibachabbouh" /> </p>
 
-- 🌱 I am currently delving into the fascinating world of** **AI**
+- 🌱 I am currently delving into the fascinating world of **AI**
 
 - 📫 How to reach me **hibachabbouh712@gmail.com**
 
