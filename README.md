@@ -11,7 +11,7 @@ I am a **Software Engineering Student** at **INSAT** (Tunisia) dedicated to buil
 
 - 🤖 **AI Focus:** Engineering RAG (Retrieval-Augmented Generation) systems and AI agents.
 - 📊 **Data Scale:** Building streaming architectures using **Kafka**, **Spark**, and **Hadoop**.
-- 🤝 **Leadership:** Proud member of the **FoundIt Team** and former project manager at **Enactus**.
+
 
 
 ### 🛠️ Professional Toolbox
@@ -37,7 +37,6 @@ I am a **Software Engineering Student** at **INSAT** (Tunisia) dedicated to buil
 <p align="left">
   <a href="https://linkedin.com/in/hiba-chabbouh-a01588247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hibachabbouh712@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hibachabbouh&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 <p align="center">
